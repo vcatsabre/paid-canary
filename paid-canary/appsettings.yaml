@@ -1,0 +1,9 @@
+server:
+  port: 8501
+  address: 0.0.0.0
+feature_flags:
+  enable_gaps: true
+  enable_incidents: true
+  enable_changes: true
+security:
+  default_role: internal

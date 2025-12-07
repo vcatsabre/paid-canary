@@ -1,0 +1,4 @@
+/* Basic dark theme tweaks */
+:root { --accent: #de3163; }
+section.main > div { max-width: 1200px; }
+.stAlert { border-left: 4px solid var(--accent); }
